@@ -1,0 +1,1 @@
+In a text adventure game, the central character is the Adventurer, which is an object representing the human player. You need this object because you need to keep track of where the player is, what the player is holding, and anything else you need The adventurer plays the game by typing in commands. Commands consist of one or two words
